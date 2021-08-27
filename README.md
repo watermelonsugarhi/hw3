@@ -2,8 +2,11 @@ A link to your site:
 watermelonsugarhi.site  
   
 Any necessary notes to the graders to make grading easier:  
-grid GET request is in getGrid.js file
-server.js conatins all request methods
+https://watermelonsugarhi.site/database.html   - grids for performance, activity and static  
+https://watermelonsugarhi.site/hellodataviz.html   - data viz for performance, activity and static  
+https://watermelonsugarhi.site/server.js   - conatins all request methods. 
+https://watermelonsugarhi.site/draw.js   - for charts drawing.  
+https://watermelonsugarhi.site/jquery-3.2.1.js   - api downloaded online for jq
 
 Any changes you made to collector.js:  
 we added put() post() function to it and  
